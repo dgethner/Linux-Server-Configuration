@@ -595,11 +595,11 @@ Flask [documentation](http://flask.pocoo.org/docs/0.12/installation/) on virtual
 
 tutorialspoint [tutorial](https://www.tutorialspoint.com/postgresql/postgresql_create_database.htm) on creating a database with PostgreSQL
 
-concrete5[tutorial](https://legacy-documentation.concrete5.org/tutorials/access-virtual-hosts-from-any-device-using-xip-io)
+concrete5 [tutorial](https://legacy-documentation.concrete5.org/tutorials/access-virtual-hosts-from-any-device-using-xip-io)
 
-xip.io[website](http://xip.io/)
+xip.io [website](http://xip.io/)
 
-Xip.io and Wildcard Subdomains for Development[blog](https://serversforhackers.com/c/xipio-and-wildcard-subdomains-for-development)
+Xip.io and Wildcard Subdomains for Development [blog](https://serversforhackers.com/c/xipio-and-wildcard-subdomains-for-development)
 
 GitHub Repositories
    * [boisalai/udacity-linux-server-configuration](https://github.com/boisalai/udacity-linux-server-configuration)
