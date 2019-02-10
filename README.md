@@ -591,6 +591,7 @@ Below is a list of sources I used to complete this project.
 
 Udacity course: [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 
+Udacity course: [Full Stack Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) 
 Flask [documentation](http://flask.pocoo.org/docs/0.12/installation/) on virtualenv
 
 tutorialspoint [tutorial](https://www.tutorialspoint.com/postgresql/postgresql_create_database.htm) on creating a database with PostgreSQL
