@@ -4,26 +4,26 @@ Below you will find the method I used to set up an Ubuntu Linux Server on Lights
 
 The server was built to host a Flask application from the Item Catalog project.
 
-##Project Overview
+## Project Overview
 You will take a baseline installation of a Linux server and prepare it to host
 your web applications. You will secure your server from a number of
 attack vectors, install and configure a database server, and deploy one of your
 existing web applications onto it.
 
-##Why this Project?
+## Why this Project?
 A deep understanding of exactly what your web applications are doing, how they
 are hosted, and the interactions between multiple systems are what define you as
 a Full Stack Web Developer. In this project, you’ll be responsible for turning a
 brand-new, bare bones, Linux server into the secure and efficient web application
 host your applications need.
 
-##What will I Learn?
+## What will I Learn?
 You will learn how to access, secure, and perform the initial configuration of a
 bare-bones Linux server. You will then learn how to install and configure a web
 and database server and actually host a web application.
 
 
-##My Server's Details
+## My Server's Details
 
 1. IP Address: 18.218.147.158
 
@@ -31,13 +31,13 @@ and database server and actually host a web application.
 
 3. Links to the page: http://18.218.147.158/ or	http://ec2-18-218-147-158.us-east-2.compute.amazonaws.com
 
-#Software/Programs
+# Software/Programs
 * Ubuntu 16.04 LTS
 * VPS Amazon Lighsail
 * Web Application Item Catalog project
 * Database PostgreSQL
 
-#Modules
+# Modules
 * Apache2
 * mod_wsgi
 * PostgreSQL
@@ -53,7 +53,7 @@ and database server and actually host a web application.
 * Psycopg2
 
 
-##Configuration steps
+## Configuration steps
 ### Get started on Lightsail
 1. Create or Sign in to [Amazon Lightsail](https://amazonlightsail.com) using an Amazon Web Services account
 
